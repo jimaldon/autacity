@@ -1,7 +1,7 @@
 # Folder Content
 ## 2D_BB_to_3D_BB
 
-This folder contains required data for inferring 3D BBox from 3D BBox.
+This folder contains required data for inferring 3D BBox from 2D BBox.
 
 000002.txt: ground truth bounding box (the order is xmin, ymin, xmax, ymax)
 
