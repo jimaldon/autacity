@@ -4,6 +4,9 @@
 This folder contains required data for inferring 3D BBox from 3D BBox.
 
 000002.txt: ground truth bounding box (the order is xmin, ymin, xmax, ymax)
+
 000002.png: image 
+
 000002.bin: point cloud 
+
 000002.cal: calibration matrix (use matrix P2 to convert 3D point to 2D point)
